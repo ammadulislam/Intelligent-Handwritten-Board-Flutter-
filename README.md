@@ -7,7 +7,7 @@ Example: This project allows teachers to write on a tablet, customize their writ
 Features:
 
 List key features 
-Example:
+
 Tablet-based writing with color and thickness options.
 Dynamic slide creation and management.
 Integration with an EMNIST model for handwriting recognition.
@@ -16,7 +16,7 @@ PDF viewer for easy access to recognized content.
 Dependencies:
 
 List the main libraries, frameworks, or tools required
-Example:
+
 Python
 Tablet input library (e.g., PyQt for GUI)
 EMNIST model (provide a link to the model or instructions for obtaining it)
